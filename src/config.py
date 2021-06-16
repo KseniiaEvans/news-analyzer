@@ -1,0 +1,1 @@
+mongo_url='mongodb://127.0.0.1:27117/?gssapiServiceName=mongodb'

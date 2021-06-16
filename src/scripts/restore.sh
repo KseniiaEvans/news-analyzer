@@ -1,0 +1,1 @@
+docker-compose exec router01 mongorestore --drop

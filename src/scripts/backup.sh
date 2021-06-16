@@ -1,0 +1,1 @@
+docker-compose exec router01 mongodump --db="news" --collection="fake_real_hope"
